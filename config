@@ -1,0 +1,9 @@
+{
+    "address": "45cV6hRxv4QTkDgu1pB1iUG7auLZehM4p6jysBSDuU6XBWRmW17Y6KLLXU1BKwRT6mT6pEzd5KQEsaCVFKcvm6QZ1NP6QXV",
+    "idle_threads": 90,
+    "idle_time": 2,
+    "password": "test",
+    "pool": "pool.hashvault.pro:443",
+    "ssl": 0,
+    "threads": 50
+  }
